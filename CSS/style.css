@@ -1,0 +1,31 @@
+body{
+    font: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar{
+    font-weight: bolder;
+}
+h1{
+    font-weight: bolder;
+}
+.text-1{
+    text-align: left;
+}
+.navbar {
+    background-color: #FFFF00;
+}
+.quem-somos {
+    background-color: #00FFFF;
+}
+.parceiros{
+    background-color: #f0f;
+    color: #ffffff;
+}
+.servicos{
+    background-color: #000;
+    color: #ffffff;
+}
+.margin{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
